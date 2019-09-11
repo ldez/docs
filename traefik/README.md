@@ -18,8 +18,10 @@ WARNING:
 
 -	[`v2.0.0-rc3`, `2.0.0-rc3`, `v2.0`, `2.0`, `montdor`](https://github.com/containous/traefik-library-image/blob/65a0466cd3336a0fd048ef4b06cd9a08a9edae6e/scratch/Dockerfile)
 -	[`v2.0.0-rc3-alpine`, `2.0.0-rc3-alpine`, `v2.0-alpine`, `2.0-alpine`, `montdor-alpine`](https://github.com/containous/traefik-library-image/blob/65a0466cd3336a0fd048ef4b06cd9a08a9edae6e/alpine/Dockerfile)
--	[`v1.7.14`, `1.7.14`, `v1.7`, `1.7`, `maroilles`, `latest`](https://github.com/containous/traefik-library-image/blob/1220871969fc11f5e619bba4de3355e695fe3061/scratch/amd64/Dockerfile)
+-	[`v1.7.14`, `1.7.14`, `v1.7`, `1.7`, `maroilles`, `latest`](https://github.com/containous/traefik-library-image/blob/1220871969fc11f5e619bba4de3355e695fe3061/scratch/arm64/Dockerfile)
 -	[`v1.7.14-alpine`, `1.7.14-alpine`, `v1.7-alpine`, `1.7-alpine`, `maroilles-alpine`, `alpine`](https://github.com/containous/traefik-library-image/blob/1220871969fc11f5e619bba4de3355e695fe3061/alpine/Dockerfile)
+
+[![arm64v8/traefik build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/arm64v8/job/traefik.svg?label=arm64v8/traefik%20%20build%20job)](https://doi-janky.infosiftr.net/job/multiarch/job/arm64v8/job/traefik/)
 
 # Quick reference
 
